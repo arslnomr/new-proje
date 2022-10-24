@@ -23,5 +23,7 @@ public class ApplicationRunner {
         // TODO Buradaki kod service siniflarinda olusturulmali ki program gecen haftaki gibi calissin...
         // TODO Hangi method hangi parametre aliyor geriye ne donduruyor inceleyin...
 
+        System.out.println("ömer arslan");
+
     }
 }
